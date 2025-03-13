@@ -27,9 +27,9 @@
         <div class="bg-gray-800 p-4 rounded-lg mt-4 md:mt-0 text-white max-w-sm w-full">
           <h4 class="font-semibold">Limited Time Offer</h4>
           <p class="text-gray-400 mt-1">Join now and save 90% on your enrollment</p>
-          <button class="mt-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded w-full">
+          <a href="https://t.me/WEALTHACADEMY2"> <button class="mt-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded w-full">
             Enroll Now
-          </button>
+          </button></a>
         </div>
       </div>
     </footer>

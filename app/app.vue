@@ -64,7 +64,13 @@
       overcoming limiting beliefs is the key to creating a better financial future.
     </p>
   </div>
-
+  
+  <a href="https://t.me/WEALTHACADEMY2"> <button 
+        class="bg-yellow-500 text-black font-semibold py-3 px-6 rounded-lg text-lg shadow-md  
+               animate-bounce duration-500 lg:ml-[650px] ml-[100px]">
+        Join Now →
+      </button>
+      </a>
 
 
 <FooterPath/>
